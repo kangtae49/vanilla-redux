@@ -15,7 +15,12 @@ git push -u origin main
 ```
 
 
-
+```
+yarn add redux
+```
+```
+yarn add react-redux react-router-dom
+```
 
 # Getting Started with Create React App
 
