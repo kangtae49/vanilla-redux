@@ -1,3 +1,22 @@
+# first step
+```
+https://github.com/new
+Repository: vanilla-redux
+```
+
+`npx create-react-app vanilla-redux`
+
+`code .`
+
+```
+git init
+git remote add origin https://github.com/kangtae49/vanilla-redux.git
+git push -u origin main
+```
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
