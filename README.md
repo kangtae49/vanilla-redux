@@ -22,6 +22,10 @@ yarn add redux
 yarn add react-redux react-router-dom
 ```
 
+```
+yarn add @reduxjs/toolkit
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
