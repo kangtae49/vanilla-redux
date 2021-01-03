@@ -1,5 +1,5 @@
 import { connect } from "react-redux";
-import { add, remove } from "../store";
+import { remove } from "../store";
 import { Link } from "react-router-dom";
 
 function ToDo({ text, onBtnClick, id }) {
